@@ -1,0 +1,2 @@
+printf("Hello world");
+cout << "Hello world";
